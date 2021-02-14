@@ -16,7 +16,7 @@ function Contact() {
                         <h2 className="subtext justify-content-center">Thank you for visiting my webpage.<br>
                         </br>If you'd like to see more, please email me by clicking the link below. </h2>
                         <a href="mailto:brucehenryhayes@yahoo.com"
-                            class="fa fa-address-book-o d-flex justify-content-center">brucehenryhayes@yahoo.com</a>
+                            className="fa fa-address-book-o d-flex justify-content-center">brucehenryhayes@yahoo.com</a>
                     </Col>
 
                 </Row>

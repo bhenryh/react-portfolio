@@ -1,3 +1,13 @@
+.newBody {
+  background-color: rgb(29, 27, 27);
+  color: rgb(191, 10, 10);
+  height: 100vh;
+}
+
+.home {
+  padding-top: 120px;
+}
+
 .App {
   text-align: center;
 }
@@ -36,9 +46,85 @@
     transform: rotate(360deg);
   }
 }
+
 /* Imported css from previous portfolio coding */
 
 /* Global styling: */
+.navbar {background-color:  rgb(191, 10, 10);}
+
+.navbar-brand {
+  color: white !important;
+  text-align: center;
+}
+
+.nav-link {color: white !important;}
+
+.header {
+  margin: 50px;
+} 
+
+.col-md-12 {text-align:center}
+
+h1 {text-align: center;
+  margin-top: 35px;
+  font-size: 320%;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+  width: 100%;
+  background-color:  rgb(191, 10, 10);
+  color: black;
+  text-align: center;
+}
+
+/* Home page styling: */
+.aboutMe {
+  font-size: 23px;
+  margin-top: 20px;
+} 
+
+/* Photos page styling: */
+ .img {
+  max-height: 350px;
+  margin: 10px;
+}
+
+.mt-0 {margin-top: 40 !important;}
+
+/* Contact page styling: */
+.subtext {
+  margin-top: 40%;
+  text-align: center;
+}
+.fa {
+  font-size: xx-large;
+}
+.card {
+  margin-top: 30%;
+  text-align: center;
+}
+.card-title {
+  font-size: 35px;
+}
+.card-subtitle {
+  padding-top: 10px;
+  font-size: 15px;
+}
+.card-text {
+  padding-top: 20px;
+  font-size: 15px;
+}
+.card-link {
+  
+  padding: 7px 10px;
+  font-size: 17px;
+  background-color: rgb(191, 10, 10);
+  color: rgb(255, 255, 255)
+}
 
 
 

@@ -3,6 +3,13 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
+import DnMImg from "../images/dinner&Movie.png"
+import weatherAppImg from "../images/weatherApp.png"
+import noteTakerImg from "../images/noteTaker.png"
+import pokessist from "../images/pokessist.png"
+
+
+
 
 function Portfolio() {
     return (
@@ -19,7 +26,7 @@ function Portfolio() {
                             HTML5, CSS3, Node.js, Express, Sequelize, Handlebars
             </Card.Text>
                         <Card.Img className="card-img-top centerImage img-thumbnail shadow img-thumbnail"
-                            src="assets/images/dinner&Movie.png" alt="screenshot of dinner&Movie app" />
+                            src={DnMImg} alt="screenshot of dinner-n-movie app" />
                         <br />
 
                         <p className="card-text scroll">
@@ -39,7 +46,7 @@ function Portfolio() {
                             HTML5, CSS3, Node.js, Express, Sequelize, Handlebars
             </Card.Text>
                         <Card.Img className="card-img-top centerImage img-thumbnail shadow img-thumbnail"
-                            src="assets/images/dinner&Movie.png" alt="screenshot of dinner&Movie app" />
+                            src={weatherAppImg} alt="screenshot of weather app" />
                         <br />
 
                         <p className="card-text scroll">
@@ -59,7 +66,7 @@ function Portfolio() {
                             HTML5, CSS3, Node.js, Express, Sequelize, Handlebars
             </Card.Text>
                         <Card.Img className="card-img-top centerImage img-thumbnail shadow img-thumbnail"
-                            src="assets/images/dinner&Movie.png" alt="screenshot of dinner&Movie app" />
+                            src={noteTakerImg} alt="screenshot of note taker app" />
                         <br />
 
                         <p className="card-text scroll">
@@ -79,7 +86,7 @@ function Portfolio() {
                             HTML5, CSS3, Node.js, Express, Sequelize, Handlebars
             </Card.Text>
                         <Card.Img className="card-img-top centerImage img-thumbnail shadow img-thumbnail"
-                            src="assets/images/dinner&Movie.png" alt="screenshot of dinner&Movie app" />
+                            src={pokessist} alt="screenshot of pokessist app" />
                         <br />
 
                         <p className="card-text scroll">
@@ -99,7 +106,7 @@ function Portfolio() {
                             HTML5, CSS3, Node.js, Express, Sequelize, Handlebars
             </Card.Text>
                         <Card.Img className="card-img-top centerImage img-thumbnail shadow img-thumbnail"
-                            src="assets/images/dinner&Movie.png" alt="screenshot of dinner&Movie app" />
+                            src={noteTakerImg} alt="screenshot of note taker app" />
                         <br />
 
                         <p className="card-text scroll">
@@ -119,7 +126,7 @@ function Portfolio() {
                             HTML5, CSS3, Node.js, Express, Sequelize, Handlebars
             </Card.Text>
                         <Card.Img className="card-img-top centerImage img-thumbnail shadow img-thumbnail"
-                            src="assets/images/dinner&Movie.png" alt="screenshot of dinner&Movie app" />
+                            src={pokessist} alt="screenshot of pokessist app" />
                         <br />
 
                         <p className="card-text scroll">
