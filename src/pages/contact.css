@@ -1,0 +1,29 @@
+.subtext {
+    margin-top: 40%;
+    text-align: center;
+  }
+  .fa {
+    font-size: xx-large;
+  } 
+  .card {
+    margin-top: 30%;
+    text-align: center;
+  }
+  .card-title {
+    font-size: 35px;
+  }
+  .card-subtitle {
+    padding-top: 10px;
+    font-size: 15px;
+  }
+  .card-text {
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .card-link {
+    
+    padding: 7px 10px;
+    font-size: 17px;
+    background-color: rgb(191, 10, 10);
+    color: rgb(255, 255, 255)
+  }
